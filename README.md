@@ -2,7 +2,7 @@
 nlp作业<br/>
 零样本图像到文本生成<br/>
 来源于CVPR 2022的一篇论文<br/>
-gpt2-medium模型需要自己下载放在根目录下
+
 ```  
 @article{tewel2021zero,
   title={Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic},
